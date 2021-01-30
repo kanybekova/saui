@@ -52,5 +52,13 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanybekova/saui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanybekova/saui/issues"
+  },
+  "homepage": "https://github.com/kanybekova/saui#readme",
   "description": ""
 }
